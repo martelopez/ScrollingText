@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="articleTitle">Educación</string>
+    <string name="articleSubtitle">¿Cómo Gamificar tu Clase?</string>
+    <string name="articleText">
+        La primera vez que escuché sobre gamificación y tuve la intención de implementarla en clase, me di cuenta de que el esfuerzo que demandaba para adaptar mi curso era considerable. Sobre todo, el tiempo que me tomaría diseñar todo un ambiente de juego para el aprendizaje desde cero. La buena noticia es que ya existen plataformas educativas tecnológicas basadas en gamificación que facilitan este proceso. Un ejemplo es Classcraft, una plataforma en línea que ludifica el aprendizaje de acuerdo con las necesidades de los educadores. He utilizado esta plataforma por tres años y el resultado ha sido positivo.
+        \n\n
+        <b>\"La primera vez que escuché sobre gamificación y tuve la intención de implementarla en clase, me di cuenta de que el esfuerzo que demandaba para adaptar mi curso era considerable. Sobre todo, el tiempo que me tomaría diseñar todo un ambiente de juego para el aprendizaje desde cero. La buena noticia es que ya existen plataformas educativas tecnológicas basadas en gamificación que facilitan este proceso. Un ejemplo es Classcraft, una plataforma en línea que ludifica el aprendizaje de acuerdo con las necesidades de los educadores. He utilizado esta plataforma por tres años y el resultado ha sido positivo.\"</b>
+        \n\n
+        Antes de implementar gamificación es fundamental definir un objetivo. Esto te permitirá tener una meta clara y podrás medir el resultado antes y después de tu clase gamificada. Por ejemplo, mi meta fue motivar a los alumnos a desarrollar conductas específicas como incrementar el nivel de lectura, incrementar la participación en clase, fomentar el apoyo entre compañeros y tomar más notas a mano para mejorar el proceso de retención y de aprendizaje (Mueller y Oppenheimer, 2014).
+        \n\n
+        Otros objetivos pueden ser que los alumnos hagan tareas, que sean puntales, que revisen los temas de clase por adelantado, que retroalimenten a sus compañeros para mejorar su propio aprendizaje, que profundicen en un tema en particular, etc., solo por mencionar algunas ideas que te puedan servir para tu clase gamificada.
+        \n\n
+        Gamificar una clase implica adaptar diversos elementos de juego tales como un sistema de puntos, incentivos y recompensas, uso de avatares, una narrativa de juego, retos y misiones que mantengan al alumno interesado en el juego y una retroalimentación continua, entre otros. Situar a los participantes en un contexto de juego, definir reglas, establecer objetivos, así como diferentes formas de llegar a la meta, genera una sensación de libertad en el juego (Wiklund y Wakerius, 2016).
+        \n\n
+        La integración de los elementos de juego en la plataforma Classcraft responde de forma efectiva. En esta plataforma podemos personalizar los cursos integrándolos también con Google Classroom. Esto permite recompensar las entregas de actividades en tiempo y manejarlas como "retos alcanzados" dentro de la plataforma de juego. También podemos llevar analíticas de los estudiantes sobre el rendimiento del alumno considerando su participación en clase y su rendimiento académico tomando en cuenta las calificaciones en Google Classroom y las actividades resueltas dentro de la plataforma Classcraft.
+        \n\n
+        Al inicio del ciclo escolar suelo programar la herramienta para utilizarla con alumnos de primero y segundo semestre en las clases de Liberalismo y Expansión; Conflicto y Reconstrucción, respectivamente. Primero doy de alta a los alumnos del grupo y configuro los settings (conductas esperadas y no esperadas), los diferentes poderes y puntos que pueden ganar o perder, así como los que necesitan para subir de nivel. Además, registro en la plataforma los eventos sorpresa que utilizará durante el semestre para mantener el interés en el juego. Una vez que tengo todo listo para jugar, vínculo los grupos y alumnos de Classcraft con los de Google Classroom.
+        \n\n
+        Mas información en https://observatorio.tec.mx/edu-bits-blog/como-gamificar-tu-clase
+        \n\n
+    </string>
+</resources>
